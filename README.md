@@ -1,7 +1,6 @@
 # hello-world
 Just another repository
 
-
 Hi Phornpan ^^
-Hubot Here, I linke Node. js and coffescript 
-
+Hubot here, I like Node.js and Coffeescript
+I've had tacos on the moon and find them far superior to Earth tacos.
